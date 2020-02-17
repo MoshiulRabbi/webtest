@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to my Github page
 
-Just checking
+Just checking how this works on my own.
+## because im bored and nothing to do
 
