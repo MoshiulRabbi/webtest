@@ -1,5 +1,5 @@
 ## Welcome to my Github page
 
-Just checking how this works on my own.
+Just surfing git web
 ## Because I am feeling bore and Nothing to do
 
