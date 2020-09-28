@@ -3,4 +3,4 @@
 Exploring git web
 ## feeling bore
 
-<a href="https://www.qoura.com" target="_blank">Visit Qoura!</a> 
+<a href="https://www.quora.com" target="_blank">Visit Quora!</a> 
